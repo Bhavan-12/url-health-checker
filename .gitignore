@@ -1,1 +1,4 @@
+venvgit rm --cached -r venv/
+git rm --cached -r venv/
+git rm --cached -r venv/
 venv
